@@ -3,7 +3,7 @@
 
 ##  How to run
 
-### Below command to download all the modules/packages used in the project 
+### Below command to download/update all the modules/packages used in the project 
 
 ``` go mod download ```   
 
